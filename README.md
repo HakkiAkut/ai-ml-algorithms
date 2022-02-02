@@ -3,9 +3,9 @@ Algorithms for some ai and ml problems
 
 ## Contents
 
-[UCS](#ucs-algorithm)
+- [UCS](#ucs-algorithm)
 
-[Backtracking Search](#backtracking-search)
+- [Backtracking Search](#backtracking-search)
 
 ## UCS-Algorithm
  
