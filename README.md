@@ -7,7 +7,7 @@ Algorithms for some ai and ml problems
 
 - [Backtracking Search](#backtracking-search)
 
-- [Perceptron](#perceptron)
+- [Perceptron](#perceptron) (*Multiclass classification with single perceptron)
 
 ## UCS-Algorithm
  
