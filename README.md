@@ -7,6 +7,8 @@ Algorithms for some ai and ml problems
 
 - [Backtracking Search](#backtracking-search)
 
+- [Perceptron](#perceptron)
+
 ## UCS-Algorithm
  
 Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities.
@@ -25,3 +27,11 @@ Backtracking Search algorithm that colors the map of the South America continent
 Output
 
 ![output](https://user-images.githubusercontent.com/32385870/152212715-726d38a8-e8ff-4d6c-be8f-227dc0e6f32f.png)
+
+
+## Perceptron
+
+implementing a multiclass classification perceptron and test it on the given "iris.csv" (part 1) and "irismodified.csv" (part 2). Datasets added to [/Perceptron/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/Perceptron/data) directory.
+
+iris.csv dataset has 3 classes, irismodified.csv has 2 classes.
+
