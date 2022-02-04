@@ -13,7 +13,8 @@ Algorithms for some ai and ml problems
 
 ## UCS-Algorithm
  
-Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities.
+Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities. Dataset added to [/UCS-Algorithm/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/UCS-Algorithm/data) directory.
+
 ![cities](https://github.com/HakkiAkut/ai-ml-algorithms/blob/master/UCS-Algorithm/cities.png)
 
 Output
