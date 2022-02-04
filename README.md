@@ -11,6 +11,8 @@ Algorithms for some ai and ml problems
 
 - [MLP](#mlp)
 
+- [Perceptron2](#perceptron2) (*Modified version 'Perceptron' for mnist dataset)
+
 ## UCS-Algorithm
  
 Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities. Dataset added to [/UCS-Algorithm/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/UCS-Algorithm/data) directory.
@@ -42,3 +44,8 @@ iris.csv dataset has 3 classes, irismodified.csv has 2 classes.
 ## MLP
 
 implementing a multilayer perceptron which predict car prices with using carprices.csv dataset. Datasets added to [/MLP/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/MLP/data) directory.
+
+
+## Perceptron2
+
+Implementing single layer perceptron for classifying mnist digit classification dataset. The dataset contains 7000 samples with dimensions of 28x28. [dataset](https://keras.io/api/datasets/mnist/)
