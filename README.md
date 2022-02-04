@@ -9,6 +9,8 @@ Algorithms for some ai and ml problems
 
 - [Perceptron](#perceptron) (*Multiclass classification with single perceptron)
 
+- [MLP](#mlp)
+
 ## UCS-Algorithm
  
 Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities.
@@ -35,3 +37,7 @@ implementing a multiclass classification perceptron and test it on the given "ir
 
 iris.csv dataset has 3 classes, irismodified.csv has 2 classes.
 
+
+## MLP
+
+implementing a multilayer perceptron which predict car prices with using carprices.csv dataset. Datasets added to [/MLP/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/MLP/data) directory.
