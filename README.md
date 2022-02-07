@@ -13,7 +13,9 @@ Algorithms for some ai and ml problems
 
 - [Perceptron2](#perceptron2) (*Modified version 'Perceptron' for mnist dataset)
 
-- [Image_Classification](#image_classification) (CIFAR10 dataset)
+- [Image_Classification](#image_classification) (*CIFAR10 dataset)
+
+- [GAN](#gan) (*CycleGAN)
 
 ## UCS-Algorithm
  
@@ -56,3 +58,8 @@ Implementing single layer perceptron for classifying mnist digit classification 
 ## Image_Classification
 
 CIFAR10 dataset image classification with keras sequential. This dataset has 50000 train, 10000 test image. [dataset](https://keras.io/api/datasets/cifar10/)
+
+
+## GAN
+
+Using Generative Adversarial Network for converting dog images into cat images. CycleGAN is used for this model. The dataset is dog vs cat dataset from kaggle. [dataset](https://www.kaggle.com/c/dogs-vs-cats/rules)
