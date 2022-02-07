@@ -13,6 +13,8 @@ Algorithms for some ai and ml problems
 
 - [Perceptron2](#perceptron2) (*Modified version 'Perceptron' for mnist dataset)
 
+- [Image_Classification](#image_classification) (CIFAR10 dataset)
+
 ## UCS-Algorithm
  
 Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities. Dataset added to [/UCS-Algorithm/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/UCS-Algorithm/data) directory.
@@ -49,3 +51,8 @@ implementing a multilayer perceptron which predict car prices with using carpric
 ## Perceptron2
 
 Implementing single layer perceptron for classifying mnist digit classification dataset. The dataset contains 7000 samples with dimensions of 28x28. [dataset](https://keras.io/api/datasets/mnist/)
+
+
+## Image_Classification
+
+CIFAR10 dataset image classification with keras sequential. This dataset has 50000 train, 10000 test image. [dataset](https://keras.io/api/datasets/cifar10/)
