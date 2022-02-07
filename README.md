@@ -69,4 +69,4 @@ Using Generative Adversarial Network for converting dog images into cat images. 
 
 ## LSTM
 
-Text recogniton with LSTM models. The dataset is [Spam Text Message Classification](https://www.kaggle.com/team-ai/spam-text-message-classification). Model recognizes that is message spam or ham.
+Text recogniton with LSTM models. The dataset is [Spam Text Message Classification](https://www.kaggle.com/team-ai/spam-text-message-classification). Model recognizes that is message spam or ham. Dataset added to [/LSTM/dataset](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/LSTM/dataset) directory.
