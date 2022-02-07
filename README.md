@@ -17,6 +17,8 @@ Algorithms for some ai and ml problems
 
 - [GAN](#gan) (*CycleGAN)
 
+- [LSTM](#lstm) 
+
 ## UCS-Algorithm
  
 Uniform Cost Search (UCS) Algorithm that determines the shortest path between two cities. Dataset added to [/UCS-Algorithm/data](https://github.com/HakkiAkut/ai-ml-algorithms/tree/master/UCS-Algorithm/data) directory.
@@ -63,3 +65,8 @@ CIFAR10 dataset image classification with keras sequential. This dataset has 500
 ## GAN
 
 Using Generative Adversarial Network for converting dog images into cat images. CycleGAN is used for this model. The dataset is dog vs cat dataset from kaggle. [dataset](https://www.kaggle.com/c/dogs-vs-cats/rules)
+
+
+## LSTM
+
+Text recogniton with LSTM models. The dataset is [Spam Text Message Classification](https://www.kaggle.com/team-ai/spam-text-message-classification). Model recognizes that is message spam or ham.
